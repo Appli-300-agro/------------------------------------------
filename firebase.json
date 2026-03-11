@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "",
+    "site": "solution-agro-services",
     "public": "dist",
     "ignore": [
       "firebase.json",
